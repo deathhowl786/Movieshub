@@ -49,16 +49,38 @@ main {
     padding: 20px;
 }
 
-#search-bar {
+/* Search Bar Container */
+.search-container {
+    position: relative;
     width: calc(100% - 40px);
-    padding: 10px;
     margin-bottom: 20px;
+}
+
+/* Search Bar Icon */
+.search-container i {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #ccc;
+    font-size: 16px;
+}
+
+/* Search Bar Input */
+#search-bar {
+    width: 100%;
+    padding: 10px 10px 10px 35px; /* Padding adjusted for icon */
     font-size: 16px;
     border: 1px solid #333;
     border-radius: 5px;
     background-color: #262626;
     color: #ccc;
 }
+
+#search-bar::placeholder {
+    color: #999;
+}
+
 
 button {
     background-color: #ff9900;
@@ -128,4 +150,5 @@ button:hover {
     transform: scale(1.05);
     box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.5);
 }
+
 
