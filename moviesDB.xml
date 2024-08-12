@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MovieDetails>
+    <Movie>
+        <Title>Pulp Fiction</Title>
+        <Director>Quentin Tarantino</Director>
+        <Year>1994</Year>
+        <Genre>Crime</Genre>
+        <Rating>8.9</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg?20180411232117</Image>
+    </Movie>
+    <Movie>
+        <Title>Fight Club</Title>
+        <Director>David Fincher</Director>
+        <Year>1999</Year>
+        <Genre>Drama</Genre>
+        <Rating>8.8</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Lord of the Rings: The Return of the King</Title>
+        <Director>Peter Jackson</Director>
+        <Year>2003</Year>
+        <Genre>Fantasy</Genre>
+        <Rating>8.9</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/4/48/Lord_Rings_Return_King.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Schindler's List</Title>
+        <Director>Steven Spielberg</Director>
+        <Year>1993</Year>
+        <Genre>Biography</Genre>
+        <Rating>9.0</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Saving Private Ryan</Title>
+        <Director>Steven Spielberg</Director>
+        <Year>1998</Year>
+        <Genre>War</Genre>
+        <Rating>8.6</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Silence of the Lambs</Title>
+        <Director>Jonathan Demme</Director>
+        <Year>1991</Year>
+        <Genre>Thriller</Genre>
+        <Rating>8.6</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Se7en</Title>
+        <Director>David Fincher</Director>
+        <Year>1995</Year>
+        <Genre>Thriller</Genre>
+        <Rating>8.6</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Usual Suspects</Title>
+        <Director>Bryan Singer</Director>
+        <Year>1995</Year>
+        <Genre>Crime</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/9/9c/Usual_suspects_ver1.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Lion King</Title>
+        <Director>Roger Allers, Rob Minkoff</Director>
+        <Year>1994</Year>
+        <Genre>Animation</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Prestige</Title>
+        <Director>Christopher Nolan</Director>
+        <Year>2006</Year>
+        <Genre>Drama</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Green Mile</Title>
+        <Director>Frank Darabont</Director>
+        <Year>1999</Year>
+        <Genre>Fantasy</Genre>
+        <Rating>8.6</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/e/e2/The_Green_Mile_%28movie_poster%29.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Lord of the Rings: The Fellowship of the Ring</Title>
+        <Director>Peter Jackson</Director>
+        <Year>2001</Year>
+        <Genre>Fantasy</Genre>
+        <Rating>8.8</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/f/fb/Lord_Rings_Fellowship_Ring.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Terminator 2: Judgment Day</Title>
+        <Director>James Cameron</Director>
+        <Year>1991</Year>
+        <Genre>Action</Genre>
+        <Rating>8.6</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/8/85/Terminator2poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Back to the Future</Title>
+        <Director>Robert Zemeckis</Director>
+        <Year>1985</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Alien</Title>
+        <Director>Ridley Scott</Director>
+        <Year>1979</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Apocalypse Now</Title>
+        <Director>Francis Ford Coppola</Director>
+        <Year>1979</Year>
+        <Genre>War</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/c/c2/Apocalypse_Now_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>A Clockwork Orange</Title>
+        <Director>Stanley Kubrick</Director>
+        <Year>1971</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>8.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/7/73/A_Clockwork_Orange_%281971%29.png</Image>
+    </Movie>
+    <Movie>
+        <Title>Braveheart</Title>
+        <Director>Mel Gibson</Director>
+        <Year>1995</Year>
+        <Genre>Drama</Genre>
+        <Rating>8.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/5/55/Braveheart_imp.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Departed</Title>
+        <Director>Martin Scorsese</Director>
+        <Year>2006</Year>
+        <Genre>Crime</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Goodfellas</Title>
+        <Director>Martin Scorsese</Director>
+        <Year>1990</Year>
+        <Genre>Crime</Genre>
+        <Rating>8.7</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>City of God</Title>
+        <Director>Fernando Meirelles</Director>
+        <Year>2002</Year>
+        <Genre>Crime</Genre>
+        <Rating>8.6</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/1/10/CidadedeDeus.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Memento</Title>
+        <Director>Christopher Nolan</Director>
+        <Year>2000</Year>
+        <Genre>Thriller</Genre>
+        <Rating>8.4</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/c/c7/Memento_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Requiem for a Dream</Title>
+        <Director>Darren Aronofsky</Director>
+        <Year>2000</Year>
+        <Genre>Drama</Genre>
+        <Rating>8.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/9/92/Requiem_for_a_dream.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>American Beauty</Title>
+        <Director>Sam Mendes</Director>
+        <Year>1999</Year>
+        <Genre>Drama</Genre>
+        <Rating>8.4</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>2001: A Space Odyssey</Title>
+        <Director>Stanley Kubrick</Director>
+        <Year>1968</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>8.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/1/11/2001_A_Space_Odyssey_%281968%29.png</Image>
+    </Movie>
+    <Movie>
+        <Title>The Shining</Title>
+        <Director>Stanley Kubrick</Director>
+        <Year>1980</Year>
+        <Genre>Horror</Genre>
+        <Rating>8.4</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Blade Runner</Title>
+        <Director>Ridley Scott</Director>
+        <Year>1982</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>8.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/9/9f/Blade_Runner_%281982_poster%29.png</Image>
+    </Movie>
+    <Movie>
+        <Title>Whiplash</Title>
+        <Director>Damien Chazelle</Director>
+        <Year>2014</Year>
+        <Genre>Drama</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Django Unchained</Title>
+        <Director>Quentin Tarantino</Director>
+        <Year>2012</Year>
+        <Genre>Western</Genre>
+        <Rating>8.4</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Gladiator</Title>
+        <Director>Ridley Scott</Director>
+        <Year>2000</Year>
+        <Genre>Action</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png</Image>
+    </Movie>
+    <Movie>
+        <Title>La La Land</Title>
+        <Director>Damien Chazelle</Director>
+        <Year>2016</Year>
+        <Genre>Musical</Genre>
+        <Rating>8.0</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png</Image>
+    </Movie>
+    <Movie>
+        <Title>Interstellar</Title>
+        <Director>Christopher Nolan</Director>
+        <Year>2014</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>8.6</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Mad Max: Fury Road</Title>
+        <Director>George Miller</Director>
+        <Year>2015</Year>
+        <Genre>Action</Genre>
+        <Rating>8.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Wolf of Wall Street</Title>
+        <Director>Martin Scorsese</Director>
+        <Year>2013</Year>
+        <Genre>Biography</Genre>
+        <Rating>8.2</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/d/d8/The_Wolf_of_Wall_Street_%282013%29.png</Image>
+    </Movie>
+    <Movie>
+        <Title>Logan</Title>
+        <Director>James Mangold</Director>
+        <Year>2017</Year>
+        <Genre>Action</Genre>
+        <Rating>8.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Grand Budapest Hotel</Title>
+        <Director>Wes Anderson</Director>
+        <Year>2014</Year>
+        <Genre>Comedy</Genre>
+        <Rating>8.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png</Image>
+    </Movie>
+    <Movie>
+        <Title>Her</Title>
+        <Director>Spike Jonze</Director>
+        <Year>2013</Year>
+        <Genre>Drama</Genre>
+        <Rating>8.0</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Birdman</Title>
+        <Director>Alejandro G. Iñárritu</Director>
+        <Year>2014</Year>
+        <Genre>Drama</Genre>
+        <Rating>7.7</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/6/63/Birdman_poster.png</Image>
+    </Movie>
+    <Movie>
+        <Title>Parasite</Title>
+        <Director>Bong Joon-ho</Director>
+        <Year>2019</Year>
+        <Genre>Thriller</Genre>
+        <Rating>8.6</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png</Image>
+    </Movie>
+    <Movie>
+        <Title>Joker</Title>
+        <Director>Todd Phillips</Director>
+        <Year>2019</Year>
+        <Genre>Drama</Genre>
+        <Rating>8.4</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Casablanca</Title>
+        <Director>Michael Curtiz</Director>
+        <Year>1942</Year>
+        <Genre>Romance</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-Gold.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Psycho</Title>
+        <Director>Alfred Hitchcock</Director>
+        <Year>1960</Year>
+        <Genre>Horror</Genre>
+        <Rating>8.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/440px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>12 Angry Men</Title>
+        <Director>Sidney Lumet</Director>
+        <Year>1957</Year>
+        <Genre>Drama</Genre>
+        <Rating>9.0</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/12_Angry_Men_%281957_film_poster%29.jpg/440px-12_Angry_Men_%281957_film_poster%29.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Vertigo</Title>
+        <Director>Alfred Hitchcock</Director>
+        <Year>1958</Year>
+        <Genre>Thriller</Genre>
+        <Rating>8.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Vertigomovie_restoration.jpg/440px-Vertigomovie_restoration.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Good, the Bad and the Ugly</Title>
+        <Director>Sergio Leone</Director>
+        <Year>1966</Year>
+        <Genre>Western</Genre>
+        <Rating>8.8</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/4/45/Good_the_bad_and_the_ugly_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Lawrence of Arabia</Title>
+        <Director>David Lean</Director>
+        <Year>1962</Year>
+        <Genre>Biography</Genre>
+        <Rating>8.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lawrence_of_arabia_ver3_xxlg.jpg/440px-Lawrence_of_arabia_ver3_xxlg.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>One Flew Over the Cuckoo's Nest</Title>
+        <Director>Milos Forman</Director>
+        <Year>1975</Year>
+        <Genre>Drama</Genre>
+        <Rating>8.7</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/2/26/One_Flew_Over_the_Cuckoo%27s_Nest_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Apartment</Title>
+        <Director>Billy Wilder</Director>
+        <Year>1960</Year>
+        <Genre>Comedy</Genre>
+        <Rating>8.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Apartment_%281960_poster%29.jpg/440px-The_Apartment_%281960_poster%29.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Double Indemnity</Title>
+        <Director>Billy Wilder</Director>
+        <Year>1944</Year>
+        <Genre>Film-Noir</Genre>
+        <Rating>8.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Double_Indemnity_%281944_poster%29.jpg/440px-Double_Indemnity_%281944_poster%29.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Great Dictator</Title>
+        <Director>Charlie Chaplin</Director>
+        <Year>1940</Year>
+        <Genre>Comedy</Genre>
+        <Rating>8.4</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Great_Dictator_%281940%29_poster.jpg/440px-The_Great_Dictator_%281940%29_poster.jpg</Image>
+    </Movie>
+</MovieDetails>
+
+
