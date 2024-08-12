@@ -13,7 +13,10 @@
         <div class="inner-box">
             <header><h1>Movies<span>&nbsp;hub&nbsp;<span></h1></header>
             <main>
-                <input type="search" name="search" id="search-bar" onkeyup="search();">
+                <div class="search-container">
+                    <i class="fas fa-search"></i>
+                    <input type="text" name="search" id="search-bar" onkeyup="search();" placeholder="Search...">
+                </div>
                 <button id="year-sort" name="asc">Sort By Year  <i class="fa-solid fa-arrow-down"></i></button>
                 <button id="rate-sort" name="asc">Sort By Rating  <i class="fa-solid fa-arrow-down"></i></button>
                 <div class="movie-list">
