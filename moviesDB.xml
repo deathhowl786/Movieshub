@@ -257,12 +257,12 @@
         <Image>https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg</Image>
     </Movie>
     <Movie>
-        <Title>Mad Max: Fury Road</Title>
-        <Director>George Miller</Director>
-        <Year>2015</Year>
-        <Genre>Action</Genre>
-        <Rating>8.1</Rating>
-        <Image>https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg</Image>
+        <Title>In Bruges</Title>
+        <Director>Martin McDonagh</Director>
+        <Year>2008</Year>
+        <Genre>Dark Comedy</Genre>
+        <Rating>7.9</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/a/a5/In_Bruges_poster.jpg</Image>
     </Movie>
     <Movie>
         <Title>The Wolf of Wall Street</Title>
@@ -400,6 +400,422 @@
         <Rating>8.4</Rating>
         <Image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Great_Dictator_%281940%29_poster.jpg/440px-The_Great_Dictator_%281940%29_poster.jpg</Image>
     </Movie>
+    <!-- Horror -->
+    <Movie>
+        <Title>The Exorcist</Title>
+        <Director>William Friedkin</Director>
+        <Year>1973</Year>
+        <Genre>Horror</Genre>
+        <Rating>8.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/7/7b/Exorcist_ver2.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Get Out</Title>
+        <Director>Jordan Peele</Director>
+        <Year>2017</Year>
+        <Genre>Horror</Genre>
+        <Rating>7.7</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png</Image>
+    </Movie>
+    <Movie>
+        <Title>It</Title>
+        <Director>Andy Muschietti</Director>
+        <Year>2017</Year>
+        <Genre>Horror</Genre>
+        <Rating>7.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>A Nightmare on Elm Street</Title>
+        <Director>Wes Craven</Director>
+        <Year>1984</Year>
+        <Genre>Horror</Genre>
+        <Rating>7.4</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/f/fa/A_Nightmare_on_Elm_Street_%281984%29_theatrical_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Hereditary</Title>
+        <Director>Ari Aster</Director>
+        <Year>2018</Year>
+        <Genre>Horror</Genre>
+        <Rating>7.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png</Image>
+    </Movie>
+    <!-- Romance -->
+    <Movie>
+        <Title>Titanic</Title>
+        <Director>James Cameron</Director>
+        <Year>1997</Year>
+        <Genre>Romance</Genre>
+        <Rating>7.9</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png</Image>
+    </Movie>
+    <Movie>
+        <Title>Pride and Prejudice</Title>
+        <Director>Joe Wright</Director>
+        <Year>2005</Year>
+        <Genre>Romance</Genre>
+        <Rating>7.8</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/0/03/Prideandprejudiceposter.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Amélie</Title>
+        <Director>Jean-Pierre Jeunet</Director>
+        <Year>2001</Year>
+        <Genre>Romance</Genre>
+        <Rating>8.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/5/53/Amelie_poster.jpg</Image>
+    </Movie>
+
+    <Movie>
+        <Title>The Notebook</Title>
+        <Director>Nick Cassavetes</Director>
+        <Year>2004</Year>
+        <Genre>Romance</Genre>
+        <Rating>7.8</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/8/86/Posternotebook.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Before Sunrise</Title>
+        <Director>Richard Linklater</Director>
+        <Year>1995</Year>
+        <Genre>Romance</Genre>
+        <Rating>8.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/d/da/Before_Sunrise_poster.jpg</Image>
+    </Movie>
+    <!-- Action -->
+    <Movie>
+        <Title>Die Hard</Title>
+        <Director>John McTiernan</Director>
+        <Year>1988</Year>
+        <Genre>Action</Genre>
+        <Rating>8.2</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/c/ca/Die_Hard_%281988_film%29_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Mad Max: Fury Road</Title>
+        <Director>George Miller</Director>
+        <Year>2015</Year>
+        <Genre>Action</Genre>
+        <Rating>8.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Dark Knight Rises</Title>
+        <Director>Christopher Nolan</Director>
+        <Year>2012</Year>
+        <Genre>Action</Genre>
+        <Rating>8.4</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Bourne Ultimatum</Title>
+        <Director>Paul Greengrass</Director>
+        <Year>2007</Year>
+        <Genre>Action</Genre>
+        <Rating>8.0</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/f/fe/The_Bourne_Ultimatum_%282007_film_poster%29.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>John Wick</Title>
+        <Director>Chad Stahelski</Director>
+        <Year>2014</Year>
+        <Genre>Action</Genre>
+        <Rating>7.4</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg</Image>
+    </Movie>
+    <!-- Thriller -->
+    <Movie>
+        <Title>The Sixth Sense</Title>
+        <Director>M. Night Shyamalan</Director>
+        <Year>1999</Year>
+        <Genre>Thriller</Genre>
+        <Rating>8.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/a/a4/The_Sixth_Sense_poster.png</Image>
+    </Movie>
+
+    <Movie>
+        <Title>Zodiac</Title>
+        <Director>David Fincher</Director>
+        <Year>2007</Year>
+        <Genre>Thriller</Genre>
+        <Rating>7.7</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/3/3a/Zodiac2007Poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Shutter Island</Title>
+        <Director>Martin Scorsese</Director>
+        <Year>2010</Year>
+        <Genre>Thriller</Genre>
+        <Rating>8.2</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Prisoners</Title>
+        <Director>Denis Villeneuve</Director>
+        <Year>2013</Year>
+        <Genre>Thriller</Genre>
+        <Rating>8.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/6/63/Prisoners2013Poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Girl with the Dragon Tattoo</Title>
+        <Director>David Fincher</Director>
+        <Year>2011</Year>
+        <Genre>Thriller</Genre>
+        <Rating>7.8</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/8/80/The_Girl_with_the_Dragon_Tattoo_Poster.jpg</Image>
+    </Movie>
+    <!-- Fiction -->
+    <Movie>
+        <Title>Blade Runner 2049</Title>
+        <Director>Denis Villeneuve</Director>
+        <Year>2017</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>8.0</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png</Image>
+    </Movie>
+    <Movie>
+        <Title>The Martian</Title>
+        <Director>Ridley Scott</Director>
+        <Year>2015</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>8.0</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/c/cd/The_Martian_film_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Inception</Title>
+        <Director>Christopher Nolan</Director>
+        <Year>2010</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>8.8</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Arrival</Title>
+        <Director>Denis Villeneuve</Director>
+        <Year>2016</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>7.9</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/d/df/Arrival%2C_Movie_Poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Gravity</Title>
+        <Director>Alfonso Cuarón</Director>
+        <Year>2013</Year>
+        <Genre>Sci-Fi</Genre>
+        <Rating>7.7</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/f/f6/Gravity_Poster.jpg</Image>
+    </Movie>
+    <!-- Comedy -->
+    <Movie>
+        <Title>Groundhog Day</Title>
+        <Director>Harold Ramis</Director>
+        <Year>1993</Year>
+        <Genre>Comedy</Genre>
+        <Rating>8.0</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/b/b1/Groundhog_Day_%28movie_poster%29.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Superbad</Title>
+        <Director>Greg Mottola</Director>
+        <Year>2007</Year>
+        <Genre>Comedy</Genre>
+        <Rating>7.6</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/8/8b/Superbad_Poster.png</Image>
+    </Movie>
+    <Movie>
+        <Title>Ferris Bueller's Day Off</Title>
+        <Director>John Hughes</Director>
+        <Year>1986</Year>
+        <Genre>Comedy</Genre>
+        <Rating>7.8</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/9/9b/Ferris_Bueller%27s_Day_Off.jpg</Image>
+    </Movie>
+
+    <Movie>
+        <Title>Step Brothers</Title>
+        <Director>Adam McKay</Director>
+        <Year>2008</Year>
+        <Genre>Comedy</Genre>
+        <Rating>6.9</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/d/d9/StepbrothersMP08.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Dumb and Dumber</Title>
+        <Director>Peter Farrelly</Director>
+        <Year>1994</Year>
+        <Genre>Comedy</Genre>
+        <Rating>7.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/6/64/Dumbanddumber.jpg</Image>
+    </Movie>
+    <!-- Adventure -->
+    <Movie>
+        <Title>Indiana Jones and the Last Crusade</Title>
+        <Director>Steven Spielberg</Director>
+        <Year>1989</Year>
+        <Genre>Adventure</Genre>
+        <Rating>8.2</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/8/8c/Indiana_Jones_and_the_Last_Crusade.png</Image>
+    </Movie>
+    <Movie>
+        <Title>The Lord of the Rings: The Two Towers</Title>
+        <Director>Peter Jackson</Director>
+        <Year>2002</Year>
+        <Genre>Adventure</Genre>
+        <Rating>8.8</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/a/a1/Lord_Rings_Two_Towers.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Jurassic Park</Title>
+        <Director>Steven Spielberg</Director>
+        <Year>1993</Year>
+        <Genre>Adventure</Genre>
+        <Rating>8.2</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Avatar</Title>
+        <Director>James Cameron</Director>
+        <Year>2009</Year>
+        <Genre>Adventure</Genre>
+        <Rating>7.9</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Up</Title>
+        <Director>Pete Docter</Director>
+        <Year>2009</Year>
+        <Genre>Adventure</Genre>
+        <Rating>8.3</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg</Image>
+    </Movie>
+    <!-- Documentary -->
+    <Movie>
+        <Title>March of the Penguins</Title>
+        <Director>Luc Jacquet</Director>
+        <Year>2005</Year>
+        <Genre>Documentary</Genre>
+        <Rating>7.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/1/19/March_of_the_penguins_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Blackfish</Title>
+        <Director>Gabriela Cowperthwaite</Director>
+        <Year>2013</Year>
+        <Genre>Documentary</Genre>
+        <Rating>8.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/b/bd/BLACKFISH_Film_Poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Man on Wire</Title>
+        <Director>James Marsh</Director>
+        <Year>2008</Year>
+        <Genre>Documentary</Genre>
+        <Rating>7.7</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/5/54/Man_on_wire_ver2.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Last Dance</Title>
+        <Director>Jason Hehir</Director>
+        <Year>2020</Year>
+        <Genre>Documentary</Genre>
+        <Rating>9.1</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/1/14/The_Last_Dance_2020.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>13th</Title>
+        <Director>Ava DuVernay</Director>
+        <Year>2016</Year>
+        <Genre>Documentary</Genre>
+        <Rating>8.2</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/6/6b/13th_%28film%29.png</Image>
+    </Movie>
+    <!-- Horror Comedy -->
+    <Movie>
+        <Title>Shaun of the Dead</Title>
+        <Director>Edgar Wright</Director>
+        <Year>2004</Year>
+        <Genre>Horror Comedy</Genre>
+        <Rating>7.9</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/8/8d/Shaun_of_the_Dead_film_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>What We Do in the Shadows</Title>
+        <Director>Taika Waititi</Director>
+        <Year>2014</Year>
+        <Genre>Horror Comedy</Genre>
+        <Rating>7.7</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/7/70/What_We_Do_in_the_Shadows_poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Zombieland</Title>
+        <Director>Ruben Fleischer</Director>
+        <Year>2009</Year>
+        <Genre>Horror Comedy</Genre>
+        <Rating>7.6</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/a/a3/Zombieland-poster.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Beetlejuice</Title>
+        <Director>Tim Burton</Director>
+        <Year>1988</Year>
+        <Genre>Horror Comedy</Genre>
+        <Rating>7.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/7/76/Beetlejuice_%281988_film_poster%29.png</Image>
+    </Movie>
+    <Movie>
+        <Title>Army of Darkness</Title>
+        <Director>Sam Raimi</Director>
+        <Year>1992</Year>
+        <Genre>Horror Comedy</Genre>
+        <Rating>7.5</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/4/46/Army_of_Darkness_poster.jpg</Image>
+    </Movie>
+    <!-- Historical Adventure -->
+    <Movie>
+        <Title>The Last of the Mohicans</Title>
+        <Director>Michael Mann</Director>
+        <Year>1992</Year>
+        <Genre>Historical Adventure</Genre>
+        <Rating>7.7</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/d/dd/Mohicansposter.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Kingdom of Heaven</Title>
+        <Director>Ridley Scott</Director>
+        <Year>2005</Year>
+        <Genre>Historical Adventure</Genre>
+        <Rating>7.2</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/9/9e/KoHposter.jpg</Image>
+    </Movie>
+
+    <Movie>
+        <Title>Apocalypto</Title>
+        <Director>Mel Gibson</Director>
+        <Year>2006</Year>
+        <Genre>Historical Adventure</Genre>
+        <Rating>7.8</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/6/62/Apocalypto-poster01.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>The Last Samurai</Title>
+        <Director>Edward Zwick</Director>
+        <Year>2003</Year>
+        <Genre>Historical Adventure</Genre>
+        <Rating>7.7</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/c/c6/The_Last_Samurai.jpg</Image>
+    </Movie>
+    <Movie>
+        <Title>Master and Commander: The Far Side of the World</Title>
+        <Director>Peter Weir</Director>
+        <Year>2003</Year>
+        <Genre>Historical Adventure</Genre>
+        <Rating>7.4</Rating>
+        <Image>https://upload.wikimedia.org/wikipedia/en/b/bf/Master_and_Commander-The_Far_Side_of_the_World_poster.png</Image>
+    </Movie>
 </MovieDetails>
+
+
 
 

@@ -33,6 +33,7 @@ $(document).ready(function(){
                     </div>
                     `);   
             });
+            // checkDuplicate();
         },
         error: function(){
         $('.movie-list').append('<li>Loading Moivies..</li>');   
@@ -106,7 +107,19 @@ $(document).ready(function(){
             $("#rate-sort").children('i').attr("class", "fa-solid fa-arrow-down");
         }
     })
-})
+
+    function checkDuplicate(){
+      movies = $(".movie-list:first").children();
+          for (i = 0; i < movies.length; i++) {
+            t1 = movies[i].getElementsByTagName("h1")[0].innerText.trim();
+            for(j=0; j < movies.length; j++){
+              if((i!=j) && (t1 === movies[j].getElementsByTagName("h1")[0].innerText.trim())){
+                alert(t1);
+              }
+            }
+          }
+    }
+  })
 
 function search() {
     // Declare variables
